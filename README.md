@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Grogan et al., "Effects of dopamine on reinforcement learning and consolidation in Parkinson’s disease". eLife, 2017. http://dx.doi.org/10.7554/eLife.26801
+
+
+
 # Effects-of-dopamine-on-RL-consolidation-in-PD
 The code for analysis and model fitting used in the paper "Effects of dopamine on reinforcement learning and consolidation in Parkinson's disease".
 
